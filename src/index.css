@@ -25,4 +25,18 @@ body {
   border-radius: 12px;
   border: 1px solid rgba(255, 255, 255, 0.125);
   display: flex;
+  /* margin-right: 200px; */
+}
+
+.Toastify__toast-theme--colored.Toastify__toast--default {
+}
+.Toastify__toast-theme--colored.Toastify__toast--info {
+}
+.Toastify__toast-theme--colored.Toastify__toast--success {
+}
+.Toastify__toast-theme--colored.Toastify__toast--warning {
+}
+.Toastify__toast-theme--colored.Toastify__toast--error {
+  background-color: red !important;
+  color: white !important;
 }
